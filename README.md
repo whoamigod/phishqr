@@ -1,4 +1,4 @@
-![image](https://github.com/whoamigod/phishqr/assets/124740533/08f3f112-058c-4d39-930e-f93643b0da24)# phishqr
+# phishqr
 Ferramenta de conscientização de Phishing através da utilização de QR code
 
 ## Descrição
