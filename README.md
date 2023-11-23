@@ -12,7 +12,7 @@ Na segunda parte, temos o nosso servidor HTTP, onde o QR Code coletado pelo atac
 
 ## Instalação
 - Clone este repositório:
-git clone https://github.com/seu-usuario/phish-qr-client.git
+git clone https://github.com/whoamigod/phish-qr-client.git
 
 - Carregue a extensão no navegador Chrome:
 1. Abra a página de extensões: `chrome://extensions/`
